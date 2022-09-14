@@ -1,0 +1,2 @@
+•	The site from which I took the tutorial https://habr.com/ru/post/516408/
+•	Information on git https://github.com/yankinndenis/dodofy
