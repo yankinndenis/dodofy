@@ -1,2 +1,26 @@
 •	The site from which I took the tutorial https://habr.com/ru/post/516408/
 •	Information on git https://github.com/yankinndenis/dodofy
+
+
+In order to get rights for an already ready API, you need:
+•	install the Google Client Library (apiclient) using composer:
+composer require google/apiclient
+ “composer install --ignore-platform-reqs”
+•	Download the test.php file to the root
+•	Than need to refresh credentials.json here https://console.developers.google.com/
+Web client (auto created by Google Service)
+
+ 
+•	Than need to download credentials.json 
+
+ 
+•	Then move it to the root directory and name it "credentials.json"
+•	Open test.php in the console then copy the link and open in your browser.
+•	Allow any access and and copy the code from the url.
+ 
+•	Add code to the console
+ 
+
+•	Now you can transfer credentials.json and token.json to the plugin
+
+That’s all! You have updated your access.
